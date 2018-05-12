@@ -1,15 +1,21 @@
 _repo: Schattenspiel-um-Goethe_47700
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Hauer, Dorothea
     gutenberg_agent_id: '44432'
     url: http://www.gutenberg.org/2009/agents/44432
+covers:
+- cover_type: archival
+  image_path: 47700-h/images/cover.jpg
 creator:
   author:
     agent_name: Sternaux, Ludwig
     gutenberg_agent_id: '44431'
     url: http://www.gutenberg.org/2009/agents/44431
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47700#Schattenspiel-um-Goethe
 gutenberg_issued: '2014-12-19'
 gutenberg_type: Text
 identifiers:
